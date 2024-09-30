@@ -211,3 +211,7 @@ div#div3{
     background-color: deepskyblue;
     transform: scale(1.05);
 }
+.game-image{
+    width: 45%;
+    height: 35%;
+}
